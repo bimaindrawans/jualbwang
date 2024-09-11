@@ -1,0 +1,34 @@
+{
+    "stok": [
+        {
+            "kode": "ml",
+            "judul": "emel",
+            "desk": "mobilegen",
+            "harga": "1000",
+            "stok": 4,
+            "profit": 0,
+            "stokTerjual": 0,
+            "totalStok": 1,
+            "stokDetail": {
+                "akun": [
+                    {
+                        "email": "emel1",
+                        "password": "emel1"
+                    },
+                    {
+                        "email": "email1",
+                        "password": "pw1"
+                    },
+                    {
+                        "email": "email2",
+                        "password": "pw2"
+                    },
+                    {
+                        "email": "email3",
+                        "password": "pw3"
+                    }
+                ]
+            }
+        }
+    ]
+}
